@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MersivMedia
+- 👀 I’m interested in AI, Machine Learning, and blockchain.
+- 💞️ I’m looking to collaborate on AI media projects.
+- 📫 How to reach me: contact@mersivmedia.com
